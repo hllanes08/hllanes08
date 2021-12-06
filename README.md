@@ -10,6 +10,6 @@ Passionate about new technologies like Blockchain, Machine Learning and Python, 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hllanes08&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hllanes08&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hllanes08&layout=compact)
 
 
